@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/akif rachmat hidayah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akif rachmat hidayah" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/akif-rachmat-hidayah-10a559256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akif rachmat hidayah" height="30" width="40" /></a>
 </p>
 
 ## 📚 My Project
