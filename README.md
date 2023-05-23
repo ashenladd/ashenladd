@@ -3,7 +3,7 @@
 
 <h2> Welcome to my profile </h2>
 
-- 🌱 I’m currently learning **FrontEnd, UI/UX Design, BackEnd, DevOps**
+- 🌱 I’m currently learning **FrontEnd, UI/UX Design, BackEnd**
 
 - 📫 How to reach me **akifrh24@gmail.com**
 
