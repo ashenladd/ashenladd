@@ -12,7 +12,12 @@
 <a href="https://www.linkedin.com/in/akif-rachmat-hidayah-10a559256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akif rachmat hidayah" height="30" width="40" /></a>
 </p>
 
-## 📚 My Project
+## 📚 Projects
+<a href = "https://github.com/capstone-adventrack/md-adventrack.git">Project: Android Kotlin-Adventrack</a>
+<a href = "https://github.com/ashenladd/storie.git">Project: Android Kotlin-Storie</a>
+<a href = "https://github.com/ashenladd/planties.git">Project: Android Java-Planties</a>
+<a href = "https://github.com/foto-in/frontend-foto-in.git">Project: Flutter-Fotoin</a>
+<a href = "https://github.com/ashenladd/transsave.git">Project: Flutter-Transave</a>
 <a href = "https://github.com/ashenladd/recipe_box.git">Project: Flutter-RecipeBox</a>
 
 ## 🛠️ Languages and Tools 
