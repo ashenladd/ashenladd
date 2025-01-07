@@ -13,6 +13,8 @@
 ### Mobile Development
 <a href = "https://github.com/capstone-adventrack/md-adventrack.git">Project: Android Kotlin-Adventrack</a><br>
 <a href = "https://github.com/ashenladd/storie.git">Project: Android Kotlin-Storie</a><br>
+<a href = "https://github.com/ashenladd/gitsearch.git">Project: Android Kotlin-GitSearch</a><br>
+<a href = "https://github.com/ashenladd/mangame.git">Project: Android Kotlin-MangaMe</a><br>
 <a href = "https://github.com/ashenladd/planties.git">Project: Android Java-Planties</a><br>
 <a href = "https://github.com/foto-in/frontend-foto-in.git">Project: Flutter-Fotoin</a><br>
 <a href = "https://github.com/ashenladd/healthy_in.git">Project: Flutter-Healthy.in</a><br>
