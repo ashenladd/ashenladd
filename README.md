@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akif Rachmat Hidayah</h1>
-<h3 align="center">A student of mobile frontend development</h3>
+<h3 align="center">An enthusiastic person who likes to explore and learn new things. Used to self-taught learning, especially in programming.</h3>
 
 <h2> Welcome to my profile </h2>
-
-- 🌱 I’m currently learning **FrontEnd, UI/UX Design, BackEnd**
-
 - 📫 How to reach me **akifrh24@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
