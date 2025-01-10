@@ -22,7 +22,7 @@
 <a href = "https://github.com/ashenladd/recipe_box.git">Project: Flutter-RecipeBox</a><br>
 
 ### Machine Learning
-<a href = "https://github.com/ashenladd/LungCancer-EfficientNet-Ensemble">Project: Lung Cancer Classification Using Ensemble EfficientNetV2</a><br>
+<a href = "https://github.com/ashenladd/LungCancer-EfficientNet-Ensemble">Project: Tensorflow-Lung Cancer Classification Using Ensemble EfficientNetV2</a><br>
 
 ### Backend Development
 <a href = "https://github.com/ashenladd/Booky">Project: JS Happi-Booky</a><br>
